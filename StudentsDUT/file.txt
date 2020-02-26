@@ -1,0 +1,10 @@
+1 Empty
+2  Student[Human [name=Andrey, lastName=Ahulak, age=22, conviction=true ,univer= Dut , group= Knd]
+3  Student[Human [name=Fedor, lastName=Bold, age=17, conviction=true ,univer= Dut , group= Knd]
+4  Student[Human [name=Vito, lastName=Carleone, age=195, conviction=true ,univer= Dut , group= Knd]
+5  Student[Human [name=Pablo, lastName=Escobar, age=195, conviction=true ,univer= Dut , group= Knd]
+6  Student[Human [name=Artem, lastName=Karp, age=12, conviction=true ,univer= Dut , group= Knd]
+7  Student[Human [name=Illia, lastName=Korzh, age=11, conviction=true ,univer= Dut , group= Knd]
+8  Student[Human [name=Bruce, lastName=Lee, age=195, conviction=true ,univer= Dut , group= Knd]
+9  Student[Human [name=Karlson, lastName=Nison, age=14, conviction=true ,univer= Dut , group= Knd]
+10 Empty

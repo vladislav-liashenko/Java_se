@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32f88dbb-c6c2-4325-a7b5-8f563f713a34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/BoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception/BoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/Dispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentVoenka/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/NullComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparator/NullComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/StudentComaparatorByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparator/StudentComaparatorByAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/StudentComparatorByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comparator/StudentComparatorByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentVoenka/Voenkom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentVoenka/Voenkom.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\GitJse\StudentsDUT\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyjlRRL9lA1y02nmHowVcQtAr2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dispatcher" />
+      <module name="StudentsDUT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dispatcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32f88dbb-c6c2-4325-a7b5-8f563f713a34" name="Default Changelist" comment="" />
+      <created>1582025378345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582025378345</updated>
+      <workItem from="1582025380320" duration="576000" />
+      <workItem from="1582026234275" duration="45000" />
+      <workItem from="1582112731129" duration="67000" />
+      <workItem from="1582732609831" duration="283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1582025402263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582025402263" />
+    <state x="479" y="248" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582025722782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="248" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582025722782" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1582025958099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582025958099" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1582025958099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582025958099" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1582025958099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582025958099" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1582025958099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582025958099" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1582112771166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582112771166" />
+  </component>
+</project>

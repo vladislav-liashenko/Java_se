@@ -1,17 +1,8 @@
-#StudentsDUT
-
-StudentsDUT/.idea/
-
-StudentsDUT/out/
 
 
+.idea/
 
-#Runners
-
-Runners/.idea/
-
-Runners/out/
-
+out/
 
 
 
